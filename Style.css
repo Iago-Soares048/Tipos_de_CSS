@@ -26,6 +26,15 @@
     font-family: monospace;
 }
 
+.container3 {
+    width: 500px;
+    height: fit-content;
+    border: solid 8px blue;
+    border-radius: 25px;
+    margin: 20px;
+    font-family: monospace;
+}
+
 h1 {
     font-size: 30px;}
 
